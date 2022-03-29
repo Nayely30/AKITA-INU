@@ -1,0 +1,48 @@
+*{
+    margin: 20px;
+
+}
+h1{
+    background-color: salmon;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 900%;
+}
+nav{
+    color: darksalmon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 180%;
+}
+h2{
+    background-color: salmon;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 190%;
+}
+p{
+    background-color: whitesmoke;
+    color: lightslategrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 140%;
+}
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: center;
+    width: 100%;
+}
+td,th{
+    background-color: lightgrey;
+    color: aliceblue;
+    border: 5px #dddddd;s
+    text-align: center;
+    padding: 8px;
+    font-size: 240%;
+}
+tr:nth-child(even){
+    background-color: lightgrey;
+}
+footer{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
